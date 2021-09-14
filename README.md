@@ -6,5 +6,5 @@ Created with React.js
 Firebase
 ## Start for dev
 - `npm i`
-- `npm start dev`
+- `npm start`
 # food_order_app
